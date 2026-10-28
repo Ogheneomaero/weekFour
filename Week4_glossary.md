@@ -1,5 +1,5 @@
 # Week 4 Master Glossary: The Pitch & Shipping Real Apps
-
+This is my copy of the forked repo.
 Welcome to the **Week 4 Master Glossary** for *The Pitch: Storytelling for Impact*! This document brings together all the core technical keywords, web development terms, pitching concepts, and mobile integration tools covered across Episodes 14 through 17.
 
 ---
